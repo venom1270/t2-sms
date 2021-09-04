@@ -3,7 +3,7 @@
 This is an unoffical way to send SMS from a T-2 phone number via their control panel 'Horizont'.
 
 On 'Horizon', T-2 offers a nice functionality of sending SMS from any of our T-2 phone numbers via an HTML form.
-Unfortunately, API is not available.
+Unfortunately, public API is not available.
 
 The script creates a series of requests, which mimic manual entering of form values and its submission.
 In essence there are two steps:
